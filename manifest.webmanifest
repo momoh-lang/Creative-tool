@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Craft Anything",
+  "short_name": "Craft Anything",
+  "description": "Inspect a software file privately on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e0e0f",
+  "theme_color": "#1659c4",
+  "icons": [
+    {
+      "src": "./ai.storyteller.craft-anything.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./craft-anything-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
